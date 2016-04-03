@@ -1,0 +1,172 @@
+/*
+ * John Mezzanote
+ * jmezzan1@my.smccd.edu
+ * CIS 114 OL
+ * map.css
+ * FINAL
+ * 12-13-2015
+ */	
+ 
+ @font-face{
+ 	font-family: oldenglish; 
+ 	src: url('../fonts/CoventryGarden.ttf');
+ }
+ 
+ @font-face{
+ 	font-family:harrowgate; 
+ 	src: url('../fonts/Harrowgate.ttf');
+ }
+ 
+ *{
+ 	padding: 0; 
+ 	margin: 0;
+ }
+ 
+ html, body{
+ 	height: 100%;
+ 	width: 100%;
+ 	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.1),
+			rgba(0, 0, 0, 0.1)
+		),
+		url(../images/table.jpg);  
+ 	
+ }
+
+body{
+	background-color: #E8E8E8;
+}
+
+#container{
+	margin: 50px auto;
+	border: solid 1px black;
+	width: 90%;
+	text-align: center;
+	overflow: hidden;
+	
+}
+
+#map{
+	width:100%; 
+	height: 900px; 
+}
+
+
+#locations{
+	position: absolute;
+	padding: 10px;
+	border-radius: 10px;
+	border: solid 1px black;
+	background-color: #FFFFFF;
+	-moz-box-shadow: 0px 10px 25px #707070;
+	-webkit-box-shadow: 0px 10px 25px #707070;
+	box-shadow: 0px 10px 25px #707070;
+	width: 250px;
+	top: 30px;
+	right: 100px;
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.1),
+			rgba(0, 0, 0, 0.1)
+		),
+		url(../images/texture.jpg);
+
+}
+
+h1, h2, h3 { 
+	/*font-family: 'Germania One', cursive;*/
+	font-family: 'oldenglish', cursive;
+	/*font-family: 'harrowgate', cursive;*/
+}
+
+h1 {
+	padding-top : 10px;
+	font-size: 45px;
+}
+
+#content h3{
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+
+#locations p{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+}
+
+#locations h1{
+	font-size: 36px;
+	margin-bottom: 5px;
+}
+
+#locations h2{
+	padding: 10px;
+	color: #800000;
+}
+
+.fakelink{
+	cursor: pointer;
+}
+
+.inactive{
+	width:100%; 
+	height: 0; 
+	-webkit-transition: height 0.5s; 
+	-moz-transition:all 3000ms ease-out; 
+	overflow:hidden;
+
+}
+
+.active{
+	width: 100%; 
+	height:auto;	
+}
+
+
+.fakelink:hover{
+	color: #800000;
+	font-weight: bold;	
+}
+
+.clicked {
+	color: #800000; 
+	font-weight:bold; 
+	border-bottom: 2px solid #800000;
+}
+
+
+.drag{
+	cursor: move;
+}
+
+
+.accordian-init{
+	background: 
+		linear-gradient(
+			rgba(0, 0, 0, 0.1),
+			rgba(0, 0, 0, 0.1)
+		),
+		url(../images/texture.jpg); 
+}
+
+.accordian-init:hover{
+	cursor : pointer;
+	border: 1px outset #E6E6E6;
+}
+
+
+#zoomout{
+
+		width: 15px; 
+		height: 15px;
+		float: right;
+		padding: 10px;
+		margin-top: 5px;
+}
+
+#zoomout:hover {
+	border: 1px outset #E6E6E6;
+	border-radius: 10px; 
+}

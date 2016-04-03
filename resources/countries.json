@@ -1,0 +1,102 @@
+ [
+ 	{
+		"location":{"lat":47.8, "lng": 13.033},
+		"country": "Austria", 
+		"city":"Salzburg", 
+		"message": "hey dad"
+	}, 
+	{
+		"location": {"lat":48.2 , "lng":16.366 }, 
+		"country":"Austria",
+		"city":"Vienna", 
+		"message": "This is a test Vienna message"
+	},
+	{
+		"location": {"lat":50.0833 , "lng":14.466 },
+		"country": "Czech Republic", 
+		"city": "Prague", 
+		"message": "We had a plast in Prague"           		
+	}, 
+	{
+		"location": {"lat": 51.5, "lng":-0.116667},
+		"country": "England", 
+		"city": "London",
+		"message": ""
+	}, 
+	{
+		"location": {"lat": 43.7666, "lng":11.25},
+		"country": "Italy",
+		"city": "Florence", 
+		"message": ""
+	},
+	{
+		"location": {"lat":48.8666, "lng":2.3333}, 
+		"country": "France",
+		"city": "Paris",
+		"message":""
+	},		                	
+	{
+		"location": {"lat":41.3833, "lng":2.1833}, 
+		"country" : "Spain",
+		"city": "Barcelona", 
+		"message": ""
+	}, 
+	{
+		"location": {"lat":41.8919, "lng":12.51133},
+		"country": "Italy",
+		"city": "Rome", 
+		"message": ""
+	},
+	{
+		"location": {"lat": 48.78232, "lng":9.17702 }, 
+		"country": "Germany",
+		"city" : "Stuttgart", 
+		"message": ""
+	}, 
+	{
+		"location" : {"lat":37.1, "lng":126.58}, 
+		"country" : "South Korea", 
+		"city" : "Seoul", 
+		"message" : "Hello Raeycie"
+	}, 
+	{
+		"location" : {"lat":35.05, "lng":129.0}, 
+		"country" : "South Korea", 
+		"city" : "Pusan", 
+		"message" : "This is Pusan in South Korea"
+	}, 
+	{
+		"location" : {"lat":20.8, "lng":-156.33}, 
+		"country" : "Hawaii", 
+		"city" : "Maui",
+		"message": ""
+	}, 
+	{
+		"location": {"lat" : 61.21 , "lng" : -149.90 },
+		"country" : "Alaska", 
+		"city" : "Anchorage", 
+		"message": ""
+	}, 
+	{
+		"location" : {"lat": 48.58, "lng": 7.75 }, 
+		"country" : "France", 
+		"city" : "Strasbourg", 
+		"message" : ""
+	}, 
+	{
+		"location" : {"lat": 49.41, "lng": 8.7 }, 
+		"country" : "Germany", 
+		"city" : "Heidelberg", 
+		"message" : ""
+	}, 
+	{
+		"location" : {"lat": 48.15, "lng": 11.58 }, 
+		"country" : "Germany", 
+		"city" : "Munich", 
+		"message" : ""
+	}
+	
+	
+	
+		                 
+]
