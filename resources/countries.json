@@ -3,19 +3,19 @@
 		"location":{"lat":47.8, "lng": 13.033},
 		"country": "Austria", 
 		"city":"Salzburg", 
-		"message": "hey dad"
+		"message": ""
 	}, 
 	{
 		"location": {"lat":48.2 , "lng":16.366 }, 
 		"country":"Austria",
 		"city":"Vienna", 
-		"message": "This is a test Vienna message"
+		"message": ""
 	},
 	{
 		"location": {"lat":50.0833 , "lng":14.466 },
 		"country": "Czech Republic", 
 		"city": "Prague", 
-		"message": "We had a plast in Prague"           		
+		"message": ""           		
 	}, 
 	{
 		"location": {"lat": 51.5, "lng":-0.116667},
@@ -57,13 +57,7 @@
 		"location" : {"lat":37.1, "lng":126.58}, 
 		"country" : "South Korea", 
 		"city" : "Seoul", 
-		"message" : "Hello Raeycie"
-	}, 
-	{
-		"location" : {"lat":35.05, "lng":129.0}, 
-		"country" : "South Korea", 
-		"city" : "Pusan", 
-		"message" : "This is Pusan in South Korea"
+		"message" : ""
 	}, 
 	{
 		"location" : {"lat":20.8, "lng":-156.33}, 
