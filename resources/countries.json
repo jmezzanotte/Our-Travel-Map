@@ -90,19 +90,19 @@
 		"message" : ""
 	}, 
 	{
-		"location" : {"lat" : 64.10, "lng" : 21.57 }, 
+		"location" : {"lat" : 21.57, "lng" : 64.10 }, 
 		"country" : "Iceland",
 		"city" : "Reykjavik", 
 		"message" : ""
 	}, 
 	{
-		"location" : {"lat" : 53.21, "lng" : 6.15 }, 
+		"location" : {"lat" : 6.15, "lng" : 53.21 }, 
 		"country" : "Ireland", 
 		"city" : "Dublin", 
 		"message" : ""
 	},
 	{
-		"location" : {"lat" : 52.00, "lng" : -1.69 }, 
+		"location" : {"lat" : -1.69, "lng" : 52.00 }, 
 		"country" : "England", 
 		"city" : "Cotswolds",
 		"message" : ""
