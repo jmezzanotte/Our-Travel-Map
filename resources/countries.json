@@ -100,7 +100,7 @@
 		"country" : "Ireland", 
 		"city" : "Dublin", 
 		"message" : ""
-	}
+	},
 	{
 		"location" : {"lat" : 51.99, "lng" : 1.69 }, 
 		"country" : "England", 
