@@ -90,7 +90,7 @@
 		"message" : ""
 	}, 
 	{
-		"location" : {"lat" : 21.57, "lng" : 64.10 }, 
+		"location" : {"lat" : 64.14, "lng" : -21.90 }, 
 		"country" : "Iceland",
 		"city" : "Reykjavik", 
 		"message" : ""
@@ -102,7 +102,7 @@
 		"message" : ""
 	},
 	{
-		"location" : {"lat" : -1.69, "lng" : 52.00 }, 
+		"location" : {"lat" : 51.80, "lng" : -1.88 }, 
 		"country" : "England", 
 		"city" : "Cotswolds",
 		"message" : ""
