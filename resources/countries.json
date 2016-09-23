@@ -88,6 +88,24 @@
 		"country" : "Germany", 
 		"city" : "Munich", 
 		"message" : ""
+	}, 
+	{
+		"location" : {"lat" : 64.13, "lng" : 21.82 }, 
+		"country" : "Iceland",
+		"city" : "Reykjavik", 
+		"message" : ""
+	}, 
+	{
+		"location" : {"lat" : 53.35, "lng" : 6.26 }, 
+		"country" : "Ireland", 
+		"city" : "Dublin", 
+		"message" : ""
+	}
+	{
+		"location" : {"lat" : 51.99, "lng" : 1.69 }, 
+		"country" : "England", 
+		"city" : "Cotswolds",
+		"message" : ""
 	}
 	
 	
