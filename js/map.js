@@ -33,7 +33,7 @@ function getMapData(callback){
 	
 	var ajax = getXMLHttpRequestObject();
 	
-	var url = "http://our-travel-map.herokuapp.com/resources/countries.json";
+	var url = "http://my-travel-map.herokuapp.com/resources/countries.json";
 	ajax.open('GET', url, true); 
 	ajax.send(null); 
 	
